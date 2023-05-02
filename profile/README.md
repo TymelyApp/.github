@@ -1,1 +1,1 @@
-##= Tymely.app
+# Tymely.app
